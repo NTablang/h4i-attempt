@@ -1,0 +1,26 @@
+{
+  "nodes":[
+    {"name": "Abbie Tran", "icon": "./people/abbie.png", "group": 1, "team":"UMD Website Team (PM)", "position":"UMD Chapter Co-Founder"},
+    {"name": "Alexis Johnson", "icon": "./people/alexis.png", "group": 2, "team":"CaDC Data Parser Team", "position":"UI/UX Designer"},
+    {"name": "Alisha Varma",  "icon": "./people/alisha.png", "group": 3, "team":"CaDC Data Parser Team", "position":"UI/UX Designer"},
+    {"name": "Anna Feng",  "icon": "./people/anna.png", "group": 4, "team":"CaDC Water Rebates Team (Tech Lead)", "position":"Software Engineer"},
+    {"name": "Daneil Nguyen",  "icon": "./people/daneil.png", "group": 5, "team":"CADC Water Rebates Team (PM)", "position":"Software Engineer"},
+    {"name": "Ferzam Mohammad", "icon": "./people/ferzam.png", "group": 6, "team":"Inspire and Empower Team (PM)", "position":"Software Engineer"},
+    {"name": "Hana Zherka", "icon": "./people/hana.png", "group": 7, "team":"Arcadia Team", "position":"Software Engineer"},
+    {"name": "Lydia Hu",  "icon": "./people/lydia.png", "group": 8, "team":"WISE-E Team (PM)", "position":"UMD Chapter Co-Founder"},
+    {"name": "Miranda Song", "icon": "./people/miranda.png", "group": 9, "team":"Arcadia Team", "position":"Software Engineer"},
+    {"name": "Mohini Dutta",  "icon": "./people/mohini.png", "group": 10, "team":"CaDC Data Parser Team (PM)", "position":"Software Engineer"},
+    {"name": "Rae Wu",  "icon": "./people/rae.png", "group": 11, "team":"CaDC Data Parser Team", "position":"Software Engineer"},
+    {"name": "Sadena Rishindran", "icon": "./people/sadena.png", "groupicon": "./people/sadena.png", "group": 12, "team":"Arcadia Team (PM)", "position":"Software Engineer"},
+    {"name": "Simin Li",  "icon": "./people/simin.png", "group": 13, "team":"ECODistricts Team (PM)", "position":"UMD Chapter Co-Founder"},
+    {"name": "Stanley Thomas", "icon": "./people/stanley.png", "group": 14, "team":"CaDC Data Parser Team (Tech Lead)", "position":"Software Engineer"},
+    {"name": "Steven Berit",  "icon": "./people/steven.png", "group": 15, "team":"Arcadia Team", "position":"Software Engineer; Sourcing"},
+    {"name": "Vrundal Shah", "icon": "./people/vrundal.png", "group": 16, "team":"Inspire and Empower (Tech Lead)", "position":"Software Engineer"}
+	],
+	"links":[
+
+	]
+}
+
+
+
